@@ -46,7 +46,7 @@ El proyecto se compone de los siguientes módulos clave:
 ## Configuración e Instalación
 
  1. **Clona el Repositorio:**
-     `git clone https://github.com/xCrisFlores/ProyectoMetaheuristicos`
+     `git clone https://github.com/LynZxGerard/ProyectoMetaheuristicos.git`
 
  3. **Navega al Directorio del Proyecto:**
     `cd ProyectoMetaheuristicos`
